@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Thu Oct 14 12:25:16 2021
+[*]
+[dumpfile] "/disk/fox/dev/de0/01_test_div/tb.vcd"
+[dumpfile_mtime] "Thu Oct 14 12:05:26 2021"
+[dumpfile_size] 48444
+[savefile] "/disk/fox/dev/de0/01_test_div/tb.gtkw"
+[timestart] 0
+[size] 1920 1029
+[pos] -1 -1
+*-6.000000 16 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.DivModX[2].
+[sst_width] 248
+[signals_width] 197
+[sst_expanded] 1
+[sst_vpaned_height] 298
+@28
+tb.clock
+tb.clock_25
+[pattern_trace] 1
+[pattern_trace] 0
